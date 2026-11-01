@@ -97,4 +97,4 @@ I cannot share the data, so you need a CSV with the same 11 columns in the same 
 
 ## Author
 
-Mahmud, Lagos. Learning data analysis with a focus on financial and business data.
+Mahmud Abdul-Azeez. Learning data analysis with a focus on financial and business data.
