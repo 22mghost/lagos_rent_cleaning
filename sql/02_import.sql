@@ -1,5 +1,5 @@
 -- IMPORTING DATA
-LOAD DATA LOCAL INFILE 'C:/Users/mahmu/Documents/cfafrica-_-openafrica-_-reform-_-current-requests-a1.csv'
+LOAD DATA LOCAL INFILE 'cfafrica-_-openafrica-_-reform-_-current-requests-a1.csv'
 INTO TABLE lagos_raw
 CHARACTER SET latin1 
 FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
